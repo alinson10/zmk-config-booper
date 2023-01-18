@@ -1,0 +1,6 @@
+if SHIELD_BOOPER
+
+config ZMK_KEYBOARD_NAME
+    default "Booper"
+
+endif
